@@ -21,13 +21,13 @@ Place the `TSR` in the same folder as the code.
 https://drive.google.com/open?id=1ISggFDhmIMsEAYzBQnjLNut-d9nOjzPL
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Traffic%20Sign%20Recognition/result_1.png">
+  <img src="https://github.com/ramaprashanth/traffic-sign-recognition/blob/master/result_1.png">
   </p>
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Traffic%20Sign%20Recognition/result_2.png">
+  <img src="https://github.com/ramaprashanth/traffic-sign-recognition/blob/master/result_2.png">
   </p>
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Traffic%20Sign%20Recognition/result_3.png">
+  <img src="https://github.com/ramaprashanth/traffic-sign-recognition/blob/master/result_3.png">
   </p>
